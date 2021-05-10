@@ -5,10 +5,9 @@ total number of click and view count of each image placement. The site's front p
 placeholders that can be populated with the user's images.
 
 The <i>Home page</i> contains an interactive image slider and static images that load randomly on each page load.
-The <i>
-Upload page</i> allows the upload of images in .jpg, .png, and .gif formats (images are then automatically cropped and
-resized to fit the given banner placeholders). The <i>Statistics page</i> shows a table of the total number of clicks
-and views per image.
+The <i> Upload page</i> allows the upload of images in .jpg, .png, and .gif formats (images are then automatically
+cropped and resized to fit the given image placeholders). The <i>Statistics page</i> shows a table of the total number
+of clicks and views per image placement.
 
 Clicks are recorded once per page load. Views are recorded when an image appears in the viewport, and once per page
 load (views will be recorded also for the empty placeholders).
